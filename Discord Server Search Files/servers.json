@@ -1,1 +1,8 @@
-{}
+{
+  "example server":
+  {
+    "Discord_link":"https://discord.gg/example",
+    "Discord_server_name": "example server",
+    "keywords": ["testing", "discord", "server", "example"] 
+  }
+}
