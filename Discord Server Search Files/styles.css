@@ -1,0 +1,72 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px; /* Add margin to separate from results container */
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8px 8px 0 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+.Go-back{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    margin-right: 32px;
+    padding: 8px 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.upload-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    margin-right: 32px;
+    padding: 8px 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.results-container {
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px; /* Add margin to separate from main container */
+}
